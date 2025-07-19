@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website! This project showcases my skills, projects, and professional background as a developer/designer/creative professional.
 ## 🧑‍💻 About Me
 
-Hi! I'm [Your Name], a passionate [Frontend / Fullstack / UI/UX / etc.] developer who loves turning ideas into beautiful and functional web applications. I created this portfolio to showcase my journey, skills, and the work I'm most proud of.
+Hi! I'm Precious Onanuga, a passionate Frontend / UI/UX  developer who loves turning ideas into beautiful and functional web applications. I created this portfolio to showcase my journey, skills, and the work I'm most proud of.
 
 ---
 
@@ -19,7 +19,7 @@ Hi! I'm [Your Name], a passionate [Frontend / Fullstack / UI/UX / etc.] develope
 ## 📁 Features
 
 - 🧭 Smooth navigation and page transitions  
-- 🌙 Light/Dark theme support   
+- 🌙 Light/Dark theme support (soon)  
 - 📱 Fully responsive design  
 - 🧩 Modular and clean code structure  
 - 🔗 Easy access to projects, resume, and contact links
